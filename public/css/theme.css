@@ -1,0 +1,12 @@
+.main-content{
+    background-color: #ccc!important ;
+    color: blue;
+}
+.slid-content{
+    background-color: blueviolet!important;
+}
+.footer,header{
+    background-color: #000;
+    color: #fff;
+
+}
